@@ -17,8 +17,8 @@ Research interests
 
 Education
 ======
-- Ph.D, Statistics, Zhejiang Gongshang University, 2024 - Now.
-- Master, Statistics, Zhejiang Gongshang University, 2021 - 2024.
+- Ph.D, Statistics, Zhejiang Gongshang University, 2024.9 - Now.
+- Master, Statistics, Zhejiang Gongshang University, 2021.9 - 2024.1.
 
 
 
