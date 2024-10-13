@@ -7,5 +7,4 @@ author_profile: true
 
 ## Seminar notes
 
-1. [Kernel Density Estimation]("/files/Notes/Nonpara_1.pdf")
-
+1. Kernel Density Estimation [<a href="/files/Notes/Nonpara_1.pdf">Nonpara_1.pdf</a>]
