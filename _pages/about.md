@@ -21,5 +21,4 @@ Education
 - Master, Statistics, Zhejiang Gongshang University, 2021 - 2024.
 
 
-**Markdown generator**
 
