@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
+
 Hello! I am Jiuzhou Miao, a PhD student in the [Department of Statistics and Mathematics](http://tjjy.zjgsu.edu.cn/) at Zhejiang Gongshang University. I am fortunate to be under the guidance of Professors [Bingxing Wang](http://tjjy.zjgsu.edu.cn/show.asp?newid=1397) and [Li Cai](http://tjjy.zjgsu.edu.cn/Show.asp?newid=7692).
 
 Research interests
