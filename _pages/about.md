@@ -11,9 +11,9 @@ Hello! I am Jiuzhou Miao, a PhD student in the [Department of Statistics and Mat
 
 Research interests
 ======
--Nonparametric statistics
--Functional data analysis
--Simultaneous confidence band
+- Nonparametric statistics
+- Functional data analysis
+- Simultaneous confidence band
 
 Education
 ======
