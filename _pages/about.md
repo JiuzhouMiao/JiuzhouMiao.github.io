@@ -22,6 +22,6 @@ Education
 ======
 - Ph.D, Statistics, Zhejiang Gongshang University, 2024.9 - 2028.6 (expected).
 - Master, Statistics, Zhejiang Gongshang University, 2021.9 - 2024.1.
-- Bachelor, Optometry, Jinling Institute of Technology, 2017.9 - 2021.6.
+- Bachelor, Materials Science and Engineering (Optometric Materials and Applications), Jinling Institute of Technology, 2017.9 - 2021.6.
 
 
