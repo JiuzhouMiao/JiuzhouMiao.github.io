@@ -11,7 +11,7 @@ author_profile: true
 2. Nadaraya--Waston Regression [<a href="/files/Notes/Nonpara_2.pdf">Nonpara_2.pdf</a>]
 
 
-## High-Dimensional Statistics
+## High-Dimensional Statistics (Spring 2025)
 
 1. Concentration Inequalities [<a href="/files/Notes/Concentration_Inequalities_slides.pdf">Slides</a>] [<a href="/files/Notes/Concentration_Inequalities_notes.pdf">Notes</a>]
  
