@@ -14,4 +14,5 @@ author_profile: true
 ## High-Dimensional Statistics (Spring 2025)
 
 1. Concentration Inequalities [<a href="/files/Notes/Concentration_Inequalities_slides.pdf">Slides</a>] [<a href="/files/Notes/Concentration_Inequalities_notes.pdf">Notes</a>]
+2. Uniform Laws of Large Numbers [<a href="/files/Notes/Uniform_Laws_of_Large_Numbers_slides.pdf">Slides</a>] [<a href="/files/Notes/Uniform_Laws_of_Large_Numbers_notes.pdf">Notes</a>]
  
