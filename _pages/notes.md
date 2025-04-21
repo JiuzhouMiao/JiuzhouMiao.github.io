@@ -16,4 +16,5 @@ author_profile: true
 1. Concentration Inequalities [<a href="/files/Notes/Concentration_Inequalities_slides.pdf">Slides</a>] [<a href="/files/Notes/Concentration_Inequalities_notes.pdf">Notes</a>]
 2. Uniform Laws of Large Numbers [<a href="/files/Notes/Uniform_Laws_of_Large_Numbers_slides.pdf">Slides</a>] [<a href="/files/Notes/Uniform_Laws_of_Large_Numbers_notes.pdf">Notes</a>]
 3. Metric Entropy [<a href="/files/Notes/Metric_Entropy_slides.pdf">Slides</a>] [<a href="/files/Notes/Metric_Entropy_notes.pdf">Notes</a>]
+4. Minimax Lower Bounds [<a href="/files/Notes/Minimax_Lower_Bounds_slides.pdf">Slides</a>] [<a href="/files/Notes/Minimax_Lower_Bounds_notes.pdf">Notes</a>]
  
